@@ -1,4 +1,4 @@
-# Introductary School Project
+# Introductory School Project
 Project that serves as an introduction to connect objects and how to get data from sensors.
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Shop Item](http://startbootstrap.com/template-overviews/shop-item/)
